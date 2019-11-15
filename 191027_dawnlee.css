@@ -1,0 +1,15 @@
+/* for 191027_dawnlee.html */
+body {
+	background-color: #AEC6CF;
+	text-align: center;
+}
+td {
+	height: 1px;
+	width: 1px
+}
+td.black {
+	background-color: black;
+}
+label.hide {
+	color: #AEC6CF;
+}
